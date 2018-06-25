@@ -1,0 +1,2109 @@
+[
+    {
+        "title": "",
+        "url": "https://www.maki-chan.de/preventclosenodonations.htm",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "",
+        "url": "https://www.wunderlist.com/#/lists/inbox",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "rm img",
+        "url": "javascript:(function()%7Bfor%20(var%20i%3D%20document.images.length%3B%20i-->0%3B)document.images%5Bi%5D.parentNode.removeChild(document.images%5Bi%5D)%7D)()",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Hacker News",
+        "url": "https://hn.premii.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Reading"
+        ]
+    },
+    {
+        "title": "Hacker Noon",
+        "url": "https://hackernoon.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Reading"
+        ]
+    },
+    {
+        "title": "Product Hunt",
+        "url": "https://www.producthunt.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Reading"
+        ]
+    },
+    {
+        "title": "Linux Hardware Reviews, Open-Source Benchmarks & Linux Performance - Phoronix",
+        "url": "https://www.phoronix.com/scan.php?page=home",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Reading"
+        ]
+    },
+    {
+        "title": "FOSSMint: Everything About Linux and FOSS",
+        "url": "https://www.fossmint.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Reading"
+        ]
+    },
+    {
+        "title": "CodeSandbox: Online Code Editor Tailored for Web Application Development",
+        "url": "https://codesandbox.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "https://edabit.com/",
+        "url": "https://edabit.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "repl.it - EasyMovieCritic",
+        "url": "https://repl.it/@isakkeyten/EasyMovieCritic",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "EMC"
+        ]
+    },
+    {
+        "title": "mLab: Cloud-hosted MongoDB",
+        "url": "https://mlab.com/databases/easy-movie-critic",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "EMC"
+        ]
+    },
+    {
+        "title": "The Movie Database API",
+        "url": "https://developers.themoviedb.org/3/getting-started/introduction",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "EMC"
+        ]
+    },
+    {
+        "title": "smc - Mailtrap",
+        "url": "https://mailtrap.io/inboxes/382499/messages",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "EMC"
+        ]
+    },
+    {
+        "title": "joi/API.md at master · hapijs/joi",
+        "url": "https://github.com/hapijs/joi/blob/master/API.md",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "EMC"
+        ]
+    },
+    {
+        "title": "Easier Error Handling Using Async/Await – Software, Fitness, and Gaming – Jesse Warden",
+        "url": "http://jessewarden.com/2017/11/easier-error-handling-using-asyncawait.html",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Free Learning - Free Programming eBooks | PACKT Books",
+        "url": "https://www.packtpub.com/packt/offers/free-learning",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Locale Contributions Wanted 🙋🙏 · Issue #171 · iamkun/dayjs",
+        "url": "https://github.com/iamkun/dayjs/issues/171",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Isak Keyten Clash Royale player profile | Trophies, personal best, challenge cards won, clan",
+        "url": "https://spy.deckshop.pro/player/2YLLG9CP",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Have I Been Pwned: API v2",
+        "url": "https://haveibeenpwned.com/API/v2",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "exercism.io",
+        "url": "http://exercism.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Enlight",
+        "url": "https://tryenlight.github.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "LeetCode",
+        "url": "https://leetcode.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "100 Days CSS Challenge",
+        "url": "https://100dayscss.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Learn to code in 2018, get hired, and have fun along the way",
+        "url": "https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Find the best online programming courses & tutorials - Hackr.io",
+        "url": "https://hackr.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "React, Redux and JavaScript Architecture",
+        "url": "https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Learn JavaScript - Best JavaScript Tutorials | Hackr.io",
+        "url": "https://hackr.io/tutorials/learn-javascript",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Learn Flexbox for free | Scrimba.com",
+        "url": "https://scrimba.com/g/gflexbox",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Learn CSS Grid for free | Scrimba.com",
+        "url": "https://scrimba.com/g/gR8PTE",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Learn Anything",
+        "url": "https://learn-anything.xyz/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Inclusive Components",
+        "url": "https://inclusive-components.design/#components",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "GitHub - gothinkster/realworld: \"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+        "url": "https://github.com/gothinkster/realworld",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Collection: JavaScript Game Engines",
+        "url": "https://github.com/collections/javascript-game-engines",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Top 10 JavaScript Open Source of the Month (v.May 2018)",
+        "url": "https://medium.mybridge.co/top-10-javascript-open-source-of-the-month-v-may-2018-d6ccb4940fda",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Top 10 JavaScript Open Source of the Month (v.May 2018)",
+        "url": "https://medium.mybridge.co/top-10-javascript-open-source-of-the-month-v-may-2018-d6ccb4940fda",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Clean Code",
+        "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Refactoring JavaScript",
+        "url": "https://www.amazon.com/Refactoring-JavaScript-Turning-Code-Into/dp/1491964928/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "GitHub - lloydstubber/my-wsl-setup: Quick rundown on my current setup on the Windows Subsystem for Linux.",
+        "url": "https://github.com/lloydstubber/my-wsl-setup",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Free React.js Bootcamp - Day 1 - YouTube",
+        "url": "https://www.youtube.com/watch?v=8GXXGJRDMdQ",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "DevTube - The best developer videos in one place",
+        "url": "https://dev.tube/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "HackerRank | Technical Recruiting | Hiring the Best Engineers",
+        "url": "https://www.hackerrank.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Learning Stuff"
+        ]
+    },
+    {
+        "title": "Spotify Web Player",
+        "url": "https://open.spotify.com/browse",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "asciinema - Record and share your terminal sessions, the right way",
+        "url": "https://asciinema.org/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "aksakalli/gtop: System monitoring dashboard for terminal",
+        "url": "https://github.com/aksakalli/gtop",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "MobaXterm free Xserver and tabbed SSH client for Windows",
+        "url": "https://mobaxterm.mobatek.net/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "Easily Monitor CPU Utilization in Linux Terminal With Stress Terminal UI",
+        "url": "https://itsfoss.com/stress-terminal-ui/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "tobi-wan-kenobi/bumblebee-status: bumblebee-status is a modular, theme-able status line generator for the i3 window manager.",
+        "url": "https://github.com/tobi-wan-kenobi/bumblebee-status",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "Flameshot is the Linux Screenshot Tool I've Been Longing for - OMG! Ubuntu!",
+        "url": "http://www.omgubuntu.co.uk/2018/01/flameshot-linux-screenshot-tool-annotation",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "rilian-la-te/vala-panel-appmenu: Global Menu for Vala Panel (and xfce4-panel and mate-panel)",
+        "url": "https://github.com/rilian-la-te/vala-panel-appmenu",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "In Firefox and Thunderbird the dropdown menus are empty · Issue #212 · rilian-la-te/vala-panel-appmenu",
+        "url": "https://github.com/rilian-la-te/vala-panel-appmenu/issues/212",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "LinxGem33/Arc-OSX-Icons: Arc-OSX icon collection consists of a modern free desktop icon theme whose design is based around the use of bold colours and simple geometric shapes to compose icons with pixel perfect rendering.",
+        "url": "https://github.com/LinxGem33/Arc-OSX-Icons",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "evanyeung/terminal-slack: Terminal client for slack",
+        "url": "https://github.com/evanyeung/terminal-slack",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "Text-Based User Interfaces · Applied Go",
+        "url": "https://appliedgo.net/tui/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "kurogetsusai/firefox-gnome-theme: A theme for Firefox 57+ matching GNOME Adwaita.",
+        "url": "https://github.com/kurogetsusai/firefox-gnome-theme",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "WendellLiu/react-selectronic: Folder-Manager-like Selection",
+        "url": "https://github.com/WendellLiu/react-selectronic",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "GitHub - sebastiencs/ls-icons: ls command with files icons",
+        "url": "https://github.com/sebastiencs/ls-icons",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "GitHub - Electrux/ls_extended: ls with coloring and icons",
+        "url": "https://github.com/Electrux/ls_extended",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "The 10 Most Beautiful Linux Icon Themes of 2018",
+        "url": "https://www.fossmint.com/best-linux-icon-themes/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Linux Stuff"
+        ]
+    },
+    {
+        "title": "Data Science Glossary",
+        "url": "http://dataplot.co/#search/1ZUDjzG1XErh/1/all",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Free Live Chat For Your Website - Unbeatable.com",
+        "url": "http://www.unbeatable.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Caption – Start watching",
+        "url": "https://getcaption.co/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "ftfy - fix unicode that's broken in various ways",
+        "url": "https://ftfy.now.sh/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "CSS GEARS - Gradients Cards",
+        "url": "https://gradients.cssgears.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Saptarshi Prakash - Dribbble",
+        "url": "https://dribbble.com/saptarshipr",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Seer",
+        "url": "http://1218.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Swagger Inspector - Product Hunt",
+        "url": "https://www.producthunt.com/posts/postman",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "reactstrap - React Bootstrap 4 components",
+        "url": "http://reactstrap.github.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Free customizable SVG Backgrounds",
+        "url": "https://www.svgbackgrounds.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Embedded Analytics and Data Visualization | Reflect",
+        "url": "https://reflect.io/studiov2?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Streamable - free video publishing",
+        "url": "https://streamable.com/00w3p",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Tabler - Admin panel made simple",
+        "url": "https://tabler.github.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Getting Started with NativeScript-Vue 1.0",
+        "url": "https://vuejsdevelopers.com/2018/03/05/getting-started-vue-nativescript/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+        "url": "https://www.notion.so/pricing",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Hall of Fame — Pages",
+        "url": "https://www.pages.xyz/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Download Microsoft Garage Mouse without Borders from Official Microsoft Download Center",
+        "url": "https://www.microsoft.com/en-us/download/details.aspx?id=35460",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "goreliu/wsl-terminal: Terminal emulator for Windows Subsystem for Linux (WSL)",
+        "url": "https://github.com/goreliu/wsl-terminal",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "4chan/4chan-API: Documentation for 4chan's read-only JSON API.",
+        "url": "https://github.com/4chan/4chan-API",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "ConEmu - Handy Windows Terminal",
+        "url": "https://conemu.github.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "ClippyJS - Add Clippy or his friends to any website for instant nostalgia",
+        "url": "https://www.smore.com/clippy-js",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Clippy for your website – GoSquared",
+        "url": "https://www.gosquared.com/clippy/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Surprisingly Software Development on Windows is Awesome Now",
+        "url": "https://medium.com/short-stories-on-software/surprisingly-software-development-on-windows-is-awesome-now-82251d66991a",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "http://input.fontbureau.com",
+        "url": "http://input.fontbureau.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Simple Science Fitness",
+        "url": "https://ss.fitness/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "23 Best React UI Component Libraries And Frameworks",
+        "url": "https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Download Udemy Paid Courses For Free | FreeTutorials.Us",
+        "url": "https://www.freetutorials.us/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "LogRocket | Logging and Session Replay for JavaScript Apps",
+        "url": "https://logrocket.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "16:08 - WHO OWNS YOUR DATA?™ - 00:02",
+        "url": "https://lineto.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Sociall (Beta) - Product Hunt",
+        "url": "https://www.producthunt.com/posts/sociall-beta",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Upthere – Welcome to Upthere",
+        "url": "https://upthere.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "http://taboo-carpenter.surge.sh/",
+        "url": "http://taboo-carpenter.surge.sh/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "A Collective List Of APIs, Go Build Something.",
+        "url": "https://apilist.fun/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "ProgrammableWeb - APIs, Mashups and the Web as Platform",
+        "url": "https://www.programmableweb.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "toddmotto/public-apis: A collective list of public JSON APIs for use in web development.",
+        "url": "https://github.com/toddmotto/public-apis",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "thedaviddias/Front-End-Design-Checklist: 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers",
+        "url": "https://github.com/thedaviddias/Front-End-Design-Checklist?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "23 JavaScript design patterns",
+        "url": "https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Design Better Forms – UX Collective",
+        "url": "https://uxdesign.cc/design-better-forms-96fadca0f49c",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Quokka - Live Scratchpad for JavaScript in your editor",
+        "url": "https://quokkajs.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "REST Client - Visual Studio Marketplace",
+        "url": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Insomnia REST Client",
+        "url": "https://insomnia.rest/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "yysun/apprun: AppRun is a 3K library for developing applications using the elm architecture, events and components.",
+        "url": "https://github.com/yysun/apprun",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Learn Svelte",
+        "url": "https://svelte.technology/guide",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "https://cdn-images-1.medium.com/max/2000/1*eWxUepVPgypV6kfQXqM7hA.png",
+        "url": "https://cdn-images-1.medium.com/max/2000/1*eWxUepVPgypV6kfQXqM7hA.png",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "https://cdn-images-1.medium.com/max/2000/1*he7zqzU3TwH3fAbJ91ScZw.png",
+        "url": "https://cdn-images-1.medium.com/max/2000/1*he7zqzU3TwH3fAbJ91ScZw.png",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "feross/run-waterfall: Run an array of functions in series, each passing its results to the next function",
+        "url": "https://github.com/feross/run-waterfall#run-waterfall----",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Hello World (JavaScript)",
+        "url": "https://developer.gnome.org/gnome-devel-demos/stable/hello-world.js.html.en",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "sindresorhus/awesome-electron: Useful resources for creating apps with Electron",
+        "url": "https://github.com/sindresorhus/awesome-electron",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "React Native: triple list for movies app (Part 3) – ITNEXT",
+        "url": "https://itnext.io/react-native-triple-list-for-movies-app-part-3-cee976664b30",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Create a custom calendar in React – Flow and Form",
+        "url": "https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Debounce in React – Flow and Form",
+        "url": "https://blog.flowandform.agency/debounce-in-react-fc5ed305a0e8",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "JavaScript Animated Typing with Typed.js | by Matt Boldt",
+        "url": "https://mattboldt.com/demos/typed-js/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/c7/be/aa/c7beaab5-9943-437e-bb76-51231111249b/AppIcon-1x_U007emarketing-85-220-0-4.png/246x0w.jpg",
+        "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/c7/be/aa/c7beaab5-9943-437e-bb76-51231111249b/AppIcon-1x_U007emarketing-85-220-0-4.png/246x0w.jpg",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "gmrchk/swup: CSS transitions between website pages.",
+        "url": "https://github.com/gmrchk/swup",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Little Widgets: HTML Website Widgets & Popups",
+        "url": "http://niceverynice.com/little-widgets/preview/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "https://vladocar.github.io/nanoJS/",
+        "url": "https://vladocar.github.io/nanoJS/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "The Ruby on Rails SaaS Template | Bullet Train",
+        "url": "https://bullettrain.co/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Phaser - A fast, fun and free open source HTML5 game framework",
+        "url": "https://phaser.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Free Open Source Podcast and RSS App built by GetStream.io",
+        "url": "https://getstream.io/winds/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "How I went from not knowing how to code to shipping 9 projects in 9 months — all before my 15th…",
+        "url": "https://medium.freecodecamp.org/how-i-went-from-not-knowing-how-to-code-to-shipping-9-projects-in-9-months-all-before-my-15th-7ec3666072c3",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Usability Geek - Usability & User Experience (UX) Blog",
+        "url": "https://usabilitygeek.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "CreativeBloq | Art and Design Inspiration",
+        "url": "https://www.creativebloq.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Firefly | A Simple Javascript App Boilerplate",
+        "url": "http://getfirefly.org/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Sticker Mule: Custom stickers that kick ass",
+        "url": "https://www.stickermule.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Axis-Praxis: Variable Fonts in the browser",
+        "url": "https://www.axis-praxis.org/specimens/__DEFAULT__",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Why do I procrastinate | And How to Stop Right Away",
+        "url": "https://whydoiprocrastinate.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Blackspike Design Ltd",
+        "url": "https://blackspike.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Home - Bodymovin Solutions",
+        "url": "https://bodymovin.solutions/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "Rabbit Ear, origami and creative code",
+        "url": "https://rabbitear.org/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Stuff"
+        ]
+    },
+    {
+        "title": "BrowserStack - Most reliable Web and Mobile App testing platform : Browserstack",
+        "url": "https://www.browserstack.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "GitHub - o1lab/xmysql at producthunt",
+        "url": "https://github.com/o1lab/xmysql?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Feathers | Instant Realtime and REST APIs for Node.js",
+        "url": "https://feathersjs.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Animated Background Gradient",
+        "url": "https://codepen.io/quasimondo/pen/lDdrF",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Inter UI font family",
+        "url": "https://rsms.me/inter/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Hire a freelance coder who meets your needs",
+        "url": "https://utask.org/#pricing",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "The Road to React",
+        "url": "https://roadtoreact.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "60,500 Free Icons (SVG, PNG)",
+        "url": "https://icons8.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Gravit Designer",
+        "url": "https://designer.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Vectr - Free Online Vector Graphics Editor",
+        "url": "https://vectr.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Popmotion - A functional JavaScript motion library",
+        "url": "https://popmotion.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Overview - Node.js API Framework with React Admin Panel and Plugins System - Strapi",
+        "url": "https://strapi.io/overview",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Reason",
+        "url": "https://reasonml.github.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Prettier · Opinionated Code Formatter",
+        "url": "https://prettier.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Popmotion - A functional JavaScript motion library",
+        "url": "https://popmotion.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Efficient Thought-to-Screen Process: My Keyboard Optimization",
+        "url": "https://hackernoon.com/efficient-thought-to-screen-process-my-keyboard-optimization-933836628e8e",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "nhnent/tui.editor: Markdown WYSIWYG Editor - Productive and Extensible",
+        "url": "https://github.com/nhnent/tui.editor",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "React-Leaflet · ⚛️ React components for 🍃 Leaflet maps",
+        "url": "https://react-leaflet.js.org/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Ant Design - A UI Design Language",
+        "url": "https://ant.design/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Blueprint – A React-based UI toolkit for the web",
+        "url": "http://blueprintjs.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Semantic UI React",
+        "url": "https://react.semantic-ui.com/introduction",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Competitors",
+        "url": "http://competitors.site/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Introducing react-native-ios-kit – Callstack Engineers",
+        "url": "https://blog.callstack.io/https-medium-com-adamtrzciski-introducing-react-native-ios-kit-f3e96d20dcf0",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "DailyJS – Medium",
+        "url": "https://medium.com/dailyjs",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Modern JavaScript Cheatsheet | Modern JS Cheatsheet",
+        "url": "https://mbeaudru.github.io/modern-js-cheatsheet/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "wearehive/project-guidelines: A set of best practices for JavaScript projects",
+        "url": "https://github.com/wearehive/project-guidelines#readme",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "7 Hacks for ES6 Developers – DailyJS – Medium",
+        "url": "https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Reactide",
+        "url": "http://reactide.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Nuclide | Nuclide is built as a single package on top of Atom to provide hackability and the support of an active community. It provides a first-class development environment for React Native, Hack and Flow projects.",
+        "url": "https://nuclide.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "How to Become a React Native Developer in 2018 – Hacker Noon",
+        "url": "https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Introducing Prisma 🎉 – Graphcool Blog",
+        "url": "https://blog.graph.cool/introducing-prisma-1ff423fd629e",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "bcherny/undux: ⚡️ Dead simple state management for React",
+        "url": "https://github.com/bcherny/undux",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Mosaic on Setapp | Your ultimate window manager",
+        "url": "https://setapp.com/apps/mosaic",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "formik",
+        "url": "https://www.npmjs.com/package/formik",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Shards - Badges",
+        "url": "https://designrevision.com/docs/shards/badges.html",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Getting started - Spectre.css CSS Framework",
+        "url": "https://picturepan2.github.io/spectre/getting-started.html#installation",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Draggable JS – JavaScript drag and drop library",
+        "url": "https://shopify.github.io/draggable/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Introducing Rekit Studio: a real IDE for React and Redux development",
+        "url": "https://medium.com/@nate_wang/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "How I design with CSS grid",
+        "url": "https://www.chenhuijing.com/blog/how-i-design-with-css-grid/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "antonmedv/finder: CSS Selector Generator 🗺",
+        "url": "https://github.com/antonmedv/finder",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "sciter – Multiplatform HTML/CSS UI Engine for Desktop and Mobile Application",
+        "url": "https://sciter.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Checkbot Web Guide - Checkbot",
+        "url": "https://www.checkbot.io/guide/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Checkbot for Chrome: SEO, Speed & Security Tester 🚀",
+        "url": "https://www.checkbot.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "mobxjs/mobx: Simple, scalable state management.",
+        "url": "https://github.com/mobxjs/mobx",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "30 Seconds of CSS",
+        "url": "https://atomiks.github.io/30-seconds-of-css/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Driver",
+        "url": "http://kamranahmed.info/driver",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Screenshot Bin | API for Website Screenshots & Thumbnails",
+        "url": "https://www.screenshotbin.com/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Pixel-Perfect Session Replay | FullStory",
+        "url": "https://www.fullstory.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "How to build a SaaS with $0 – Hacker Noon",
+        "url": "https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "UI Faces – Avatars for design mockups",
+        "url": "https://uifaces.co/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Mongotron - Cross platform MongoDB management",
+        "url": "http://mongotron.io/#/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Setting Up Windows for Web Development – CloudBoost",
+        "url": "https://blog.cloudboost.io/setting-up-windows-for-web-development-28483d245a82",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Webdash | The customizable web dashboard",
+        "url": "https://webdash.xyz/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Popmotion Pose - A declarative animation library for HTML, SVG and React",
+        "url": "https://popmotion.io/pose/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Glide.js | A dependency-free JavaScript ES6 slider and carousel",
+        "url": "https://glidejs.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Utopian.io - Open Source Economy",
+        "url": "https://join.utopian.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Grow Open Source | Gitcoin",
+        "url": "https://gitcoin.co/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "drcmda/react-spring: 🙌 Helping react-motion and animated to become best friends",
+        "url": "https://github.com/drcmda/react-spring",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Learn Svelte",
+        "url": "https://svelte.technology/guide",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Email Verify Nodejs",
+        "url": "https://codeforgeek.com/2016/06/node-js-redis-tutorial-building-email-verification-system/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Ractive.js",
+        "url": "https://ractive.js.org/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "React + Redux - User Registration and Login Tutorial & Example | Jason Watmore's Blog",
+        "url": "http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "stalniy/casl: CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access",
+        "url": "https://github.com/stalniy/casl",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "sindresorhus/awesome-nodejs: Delightful Node.js packages and resources",
+        "url": "https://github.com/sindresorhus/awesome-nodejs",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Chicago Web Design, App Development & Digital Marketing | Solid Digital",
+        "url": "https://www.soliddigital.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Visual Studio Code Jumpstart for Node.js Developers • thisDaveJ",
+        "url": "http://thisdavej.com/visual-studio-code-jumpstart-for-node-js-developers/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "cssgr.id | An interactive CSS Grid code tool and generator",
+        "url": "https://cssgr.id/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "nhnent/tui.calendar: 🍞📅A JavaScript calendar that has everything you need.",
+        "url": "https://github.com/nhnent/tui.calendar?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "sindresorhus/ow: Function argument validation for humans",
+        "url": "https://github.com/sindresorhus/ow?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "trekhleb/javascript-algorithms: Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+        "url": "https://github.com/trekhleb/javascript-algorithms",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Dynamic Bézier Curves - Josh W. Comeau's Blog",
+        "url": "https://www.joshwcomeau.com/posts/dynamic-bezier-curves",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "technopagan/sqip: \"SQIP\" (pronounced \\skwɪb\\ like the non-magical folk of magical descent) is a SVG-based LQIP technique.",
+        "url": "https://github.com/technopagan/sqip",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Blueprint – Documentation",
+        "url": "http://blueprintjs.com/docs/v2/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Helmet",
+        "url": "https://helmetjs.github.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Rendering large lists with React Virtualized – LogRocket",
+        "url": "https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Level up your CSS selector skills – LogRocket",
+        "url": "https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Dev Stuff"
+        ]
+    },
+    {
+        "title": "Understanding Sessions and Local Authentication in Express with Passport and MongoDb – Mian Labs",
+        "url": "https://mianlabs.com/2018/05/09/understanding-sessions-and-local-authentication-in-express-with-passport-and-mongodb/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    },
+    {
+        "title": "Querious - The best MySQL Tool for macOS",
+        "url": "https://www.araelium.com/querious",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Expressions",
+        "url": "http://www.apptorium.com/expressions?ref=fastspring",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Cmacapps | Mac App Store",
+        "url": "https://cmacapps.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Must-have apps for your Mac | Setapp",
+        "url": "https://setapp.com/apps",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Action on the Mac App Store",
+        "url": "https://itunes.apple.com/app/id1322446807",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Unite",
+        "url": "https://www.bzgwebs.com/unite",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "BundleHunt.com | Buy What You Want & Create Your Mac Bundle",
+        "url": "https://bundlehunt.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Sketch Design System — Sketch Design System - Download Sketch Template",
+        "url": "https://www.sketchdesignsystem.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Downie on Setapp | Ultimate YouTube video downloader",
+        "url": "https://setapp.com/apps/downie",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Wallpaper Wizard on Setapp | Beautiful desktop backgrounds for Mac",
+        "url": "https://setapp.com/apps/wallpaper-wizard",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "NotePlan on Setapp | Digital note-taking done right",
+        "url": "https://setapp.com/apps/noteplan",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "News Explorer on Setapp | An awesome news reader app for your Mac",
+        "url": "https://setapp.com/apps/news-explorer",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Unibox on Setapp | The revolutionizing Mac mail app",
+        "url": "https://setapp.com/apps/unibox",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "ForkLift on Setapp | Smart file manager for Mac",
+        "url": "https://setapp.com/apps/forklift",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Hype on Setapp | Animated and interactive HTML5 content",
+        "url": "https://setapp.com/apps/hype",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "RapidWeaver on Setapp | Code-free website builder",
+        "url": "https://setapp.com/apps/rapidweaver",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Paw on Setapp | A sophisticated API tool for Mac",
+        "url": "https://setapp.com/apps/paw",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "IconJar on Setapp | Store all your icons in one place, just a click away",
+        "url": "https://setapp.com/apps/iconjar",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Squash on Setapp | Image converter and compressor",
+        "url": "https://setapp.com/apps/squash",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Blogo on Setapp | Simple, powerful blog editor",
+        "url": "https://setapp.com/apps/blogo",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Ulysses on Setapp | Writing app and markdown editor",
+        "url": "https://setapp.com/apps/ulysses",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Picpipe - Screenshot tool for bloggers",
+        "url": "https://picpipe.io/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Design, meet production. | Haiku",
+        "url": "https://www.haiku.ai/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "coconutBattery 3.6.6 - by coconut-flavour.com",
+        "url": "http://www.coconut-flavour.com/coconutbattery/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "PixelSnap",
+        "url": "https://getpixelsnap.com/?ref=producthunt",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Alfred Powerpack - Take Control of Your Mac and OS X",
+        "url": "https://www.alfredapp.com/powerpack/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Ulysses › Features",
+        "url": "https://ulyssesapp.com/features/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Power Menu for Finder - Product Hunt",
+        "url": "https://www.producthunt.com/posts/power-menu-for-finder",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "kasper/phoenix: A lightweight macOS/OS X window and app manager scriptable with JavaScript",
+        "url": "https://github.com/kasper/phoenix/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "drcmda/react-spring: 🙌 Helping react-motion and animated to become best friends",
+        "url": "https://github.com/drcmda/react-spring",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar",
+            "Cool Mac Stuff"
+        ]
+    },
+    {
+        "title": "Reshot: Uniquely Free Photos",
+        "url": "https://www.reshot.com/",
+        "categories": [
+            "Bookmarks",
+            "Bookmarks bar"
+        ]
+    }
+]
