@@ -2,20 +2,21 @@ const fs = require('fs')
 const cheerio = require('cheerio')
 
 async function parseBookmarks() {
-	/*
-	* type: Object
-	* error: Boolean
-	* errorCode: Error/undefined
-	* data: undefined/fileData
-	*/
 	let temp = await readFile()
 	if (temp.error) {
+		// return(temp.errorCode)
 		console.log(temp.errorCode)
-		return;
 	} else {
 		let $ = await cheerio.load(temp.data)
-		let result = await []
+		let result = await parseLinks($)
+		// return result
+		await console.log(JSON.stringify(result, null, 4))
+	}
+}
 
+let parseLinks = ($) => {
+	return new Promise((resolve, reject) => {
+		let result = []
 		$('a').each((index, a) => {
 			let $a = $(a)
 			let categories = getCategories($a)
@@ -26,11 +27,9 @@ async function parseBookmarks() {
 			}
 			result.push(data)
 		})
-		await console.log(JSON.stringify(result, null, 4))
-	}
+		resolve(result)
+	})
 }
-
-// let parseLinks
 
 let getCategories = ($a) => {
 		let $node = $a.closest('DL').prev();
