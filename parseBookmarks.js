@@ -9,7 +9,7 @@ async function parseBookmarks() {
 	} else {
 		let $ = await cheerio.load(temp.data)
 		let result = await parseLinks($)
-		// return result
+		// return result	
 		await console.log(JSON.stringify(result, null, 4))
 	}
 }

@@ -1,6 +1,6 @@
 var cli = process.argv.slice(2)
 var path = require('path')
-var fs = require('fs-extra')
+var fs = require('fs')
 var cheerio = require('cheerio')
 
 var $ = cheerio.load(fs.readFileSync(path.resolve(__dirname, cli[0])))
