@@ -5,6 +5,7 @@ async function parseBookmarks() {
 	let temp = await readFile();
 	if (temp.error) {
 		// return(temp.errorCode)
+		// change so i can commit
 		console.log(temp.errorCode);
 	} else {
 		let $ = await cheerio.load(temp.data);
