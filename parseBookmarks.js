@@ -15,24 +15,22 @@ async function parseBookmarks() {
 	}
 }
 
-let parseLinks = ($) => {
-	return new Promise((resolve) => {
-		let result = [];
-		$('a').each((index, a) => {
-			let $a = $(a);
-			let categories = getCategories($a);
-			let data = {
-				title: $a.text(),
-				url: $a.attr('href'),
-				categories
-			};
-			result.push(data);
-		});
-		resolve(result);
+async function parseLinks($) {
+	let result = [];
+	$('a').each((index, a) => {
+		let $a = $(a);
+		let categories = getCategories($a);
+		let data = {
+			title: $a.text(),
+			url: $a.attr('href'),
+			categories
+		};
+		result.push(data);
 	});
+	return result;
 };
 
-let getCategories = ($a) => {
+function getCategories($a) {
 	let $node = $a.closest('DL').prev();
 	let title = $node.text();
 	if ($node.length > 0 && title.length > 0) {
@@ -44,10 +42,10 @@ let getCategories = ($a) => {
 
 let readFile = () => {
 	return new Promise((resolve) => {
-		fs.readFile('bookmarks.html', 'utf-8', (err, data) => {
-			(err) ? resolve({ error: true, errorCode: err }) : resolve({ error: false, data });
-		});
-	});
-};
+		fs.readFile('bookmarks.html', 'utf-8', (err,data) => {
+			(err) ? resolve({error: true, errorCode: err}) : resolve ({error: false, data});
+		})
+	})
+}
 
 parseBookmarks();
